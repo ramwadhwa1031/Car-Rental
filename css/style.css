@@ -1,4 +1,29 @@
 /********** Template CSS **********/
+
+
+.page-header1 {
+    height: 400px;
+    margin-bottom: 90px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(rgb(20 20 20 / 44%), rgb(20 20 20 / 78%)), url(../img/bg-banner1.jpg);
+	 background-attachment: fixed;
+	
+}
+.page-header2 {
+    height: 400px;
+    margin-bottom: 90px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(rgb(20 20 20 / 44%), rgb(20 20 20 / 78%)), url(../img/bg-banner2.jpg);
+	
+	background-attachment: fixed;
+}
+
 :root {
     --primary: #F77D0A;
     --secondary: #2B2E4A;
